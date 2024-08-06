@@ -724,7 +724,6 @@ vendor/lib/hw/local_time.default.so
 vendor/lib64/hw/local_time.default.so
 
 # Media
-etc/seccomp_policy/mediacodec.policy
 lib/libstagefrightVivoSw.so
 lib/libstagefright_codecbase.so
 lib/libstagefright_wfd_mtk.so
