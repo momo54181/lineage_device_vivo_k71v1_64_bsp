@@ -6,13 +6,6 @@
 
 # API levels
 PRODUCT_SHIPPING_API_LEVEL := 27
-
-
-# Seccomp
-PRODUCT_COPY_FILES += \
-    $(LOCAL_PATH)/seccomp/mediaextractor.policy:$(TARGET_COPY_OUT_VENDOR)/etc/seccomp_policy/mediaextractor.policy \
-    $(LOCAL_PATH)/seccomp/mediaswcodec.policy:$(TARGET_COPY_OUT_VENDOR)/etc/seccomp_policy/mediaswcodec.policy \
-    
 # Display
 TARGET_SCREEN_HEIGHT := 1080
 TARGET_SCREEN_WIDTH := 2280
