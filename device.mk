@@ -7,6 +7,10 @@
 # API levels
 PRODUCT_SHIPPING_API_LEVEL := 27
 
+# Display
+TARGET_SCREEN_HEIGHT := 1080
+TARGET_SCREEN_WIDTH := 2280
+
 # Health
 PRODUCT_PACKAGES += \
     android.hardware.health@2.1-impl \
