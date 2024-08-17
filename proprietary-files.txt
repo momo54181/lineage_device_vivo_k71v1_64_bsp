@@ -1002,6 +1002,7 @@ vendor/bin/ccci_mdinit
 vendor/bin/ccci_rpcd
 vendor/bin/charon
 vendor/bin/dhrystone64_bit.elf
+vendor/bin/dumpsys
 vendor/bin/em_hidl
 vendor/bin/epdg_wod
 vendor/bin/factory
