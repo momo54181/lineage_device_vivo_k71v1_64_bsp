@@ -996,6 +996,7 @@ vendor/bin/atcid_factory
 vendor/bin/atcid_vendor
 vendor/bin/audiocmdservice_atci
 vendor/bin/autobt
+vendor/bin/bc
 vendor/bin/bip
 vendor/bin/ccci_fsd
 vendor/bin/ccci_mdinit
