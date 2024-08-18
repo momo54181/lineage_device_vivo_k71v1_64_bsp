@@ -913,10 +913,6 @@ vendor/etc/wifi/wpa_supplicant.conf
 vendor/etc/wifi/wpa_supplicant_overlay.conf
 
 # Miscellaneous
-odm/etc/vintf/manifest_dsds.xml
-odm/etc/vintf/manifest_qsqs.xml
-odm/etc/vintf/manifest_ss.xml
-odm/etc/vintf/manifest_tsts.xml
 vendor/app/SensorHub/lib/arm64/libem_sensor_jni.so
 vendor/app/SensorHub/SensorHub.apk
 vendor/app/mcRegistry/01666900000000000000000000000000.tabin
