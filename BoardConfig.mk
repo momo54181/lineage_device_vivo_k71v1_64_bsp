@@ -81,6 +81,7 @@ TARGET_VENDOR_PROP += $(DEVICE_PATH)/vendor.prop
 TARGET_PRODUCT_PROP += $(DEVICE_PATH)/product.prop
 # TARGET_ODM_PROP += $(DEVICE_PATH)/odm.prop
 ODM_MANIFEST_FILES += vendor/vivo/k71v1_64_bsp/proprietary/vendor/odm/etc/vintf/manifest_dsds.xml
+PRODUCT_LOCALES = zh_CN
 
 # Recovery
 TARGET_RECOVERY_FSTAB := $(DEVICE_PATH)/rootdir/etc/fstab.mt6771
