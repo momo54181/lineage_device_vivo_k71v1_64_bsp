@@ -54,3 +54,6 @@ PRODUCT_SOONG_NAMESPACES += \
 
 # Inherit the proprietary files
 $(call inherit-product, vendor/vivo/k71v1_64_bsp/k71v1_64_bsp-vendor.mk)
+
+ODM_MANIFEST_FILES += \
+    vendor/vivo/k71v1_64_bsp/proprietary/vendor/odm/etc/vintf/manifest_dsds.xml
